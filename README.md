@@ -11,6 +11,7 @@ https://cool-audio-player.vercel.app/
 <p>DMT Visualizer (Milkdrop style)</p>
 <p>Playlist Manager (5 slots)</p>
 <p>Playlist Save/Load To LocalStorage</p>
+<p>Basic EQ w/ Presets<p>
 <p>Tauri Cross-Platform Builds</p>
 
 # Screenshots
