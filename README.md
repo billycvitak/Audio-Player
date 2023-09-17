@@ -23,6 +23,7 @@ https://cool-audio-player.vercel.app/
 
 ![3](https://github.com/billycvitak/Audio-Player/assets/145053822/29e1596b-cfd1-4175-9ed1-701fdcfaf99b)
 
+![5](https://github.com/billycvitak/Audio-Player/assets/145053822/6dc53bf6-2f5e-42fe-9644-dc663588c714)
 
 
 
